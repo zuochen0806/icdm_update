@@ -3,7 +3,6 @@ import os
 
 
 class ConfigChange:
-
     def __init__(self, path):
         # cur_path = os.path.dirname(os.path.realpath(__file__))
         self.yml_path = os.path.join('/apps/apache-tomcat-icdm/webapps/icdm-controller/WEB-INF/classes/', path)
