@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="lesson12_1.mtx_pay.pay.driver" />
+          <option value="lesson12_1.mtx_pay.Pay.driver" />
+          <option value="lesson13_2.tool.logger.GetLogger.info" />
+          <option value="lesson13_2.base.driver.url" />
+          <option value="lesson14_1.pageAction.cart_action.Cart.add_catr_business" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
